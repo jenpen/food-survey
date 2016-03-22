@@ -4,6 +4,9 @@ This file is an attempt to document what foods are liked and disliked by a group
 Frank: Ribs :meat_on_bone:
 Bryce: Cheese
 Jen: Scrambled Eggs
+Jenn: Scrambled Eggs
+Bryce: Cheese :stinky:
+Samir: Pasties
 Josh: Pizza
 Matt: Fra Diavolo
 Matt: Pasta
@@ -13,4 +16,5 @@ Samir: Pasties
 Dejan: Cevapi
 Mike: Pizza
 Muse: Thai
+
 ### What is your least favorite food?
