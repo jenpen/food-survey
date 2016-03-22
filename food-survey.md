@@ -6,5 +6,7 @@ This file is an attempt to document what foods are liked and disliked by a group
 Frank: Ribs :meat_on_bone:
 Bryce: Cheese
 Jen: Scrambled Eggs
+Dejan: Cevapi
+Mike: Pizza
 
 ### What is your least favorite food?
