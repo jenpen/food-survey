@@ -8,5 +8,5 @@ Jenn: Scrambled Eggs
 Bryce: Cheese :stinky:
 Dejan: Cevapi
 Mike: Pizza
-
+Muse: Thai
 ### What is your least favorite food?
